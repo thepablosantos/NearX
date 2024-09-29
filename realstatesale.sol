@@ -84,4 +84,4 @@ contract RealEstateSale {
         }
         return expirationTime - block.timestamp;
     }
-}
+} //
